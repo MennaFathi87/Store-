@@ -1,16 +1,22 @@
-# store
+# 🚀 Flutter API Integration with Postman Testing
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This Flutter project provides a reusable `Api` class for handling HTTP requests (`GET`, `POST`, and `PUT`) using the `http` package. The API endpoints were tested and verified using **Postman** to ensure accurate and reliable data communication.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter & Dart
+- [`http`](https://pub.dev/packages/http) package for HTTP requests
+- **Postman** for API endpoint testing and debugging
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📦 Api Class Description
+
+The `Api` class offers three main methods:
+
+
+
